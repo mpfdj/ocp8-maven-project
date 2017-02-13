@@ -105,3 +105,4 @@ local.properties
 /Web/target/tomcat/
 /Model/target/
 /IntegrationTest/target/
+/target/
